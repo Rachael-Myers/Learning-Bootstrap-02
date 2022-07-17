@@ -18,6 +18,9 @@ span {
     border: 8px double black;
 }
 main {
+    font-family: serif;
     
-    
+}
+main p {
+    font-size: 24px;
 }
